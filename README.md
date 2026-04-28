@@ -1,13 +1,13 @@
 ## Performance Testing Results
 
 ### /all-student
-![Result](images/jmeter-result-0.png)
-
-### /all-student-name
 ![Result](images/jmeter-result-1.png)
 
-### /highest-gpa
+### /all-student-name
 ![Result](images/jmeter-result-2.png)
+
+### /highest-gpa
+![Result](images/jmeter-result-3.png)
 
 ## JMeter CLI Results
 
